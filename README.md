@@ -2,7 +2,7 @@
 - 👀 I’m interested in *almost* EVERYTHING
 - 🌱 I’m currently learning html
 - 💞️ I’m looking to collaborate on a game
-- 📫 How to reach me ------- * no email for dev stuff yet *
+- 📫 How to reach me - duckieisadev.outlook.com
 - 😄 Pronouns: smth/smth
 - ⚡ Fun fact: i like undertale
 
