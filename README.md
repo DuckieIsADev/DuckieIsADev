@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on a game
 - 📫 How to reach me - duckieisadev.outlook.com
 - 😄 Pronouns: smth/smth
-- ⚡ Fun fact: i like undertale
+- ⚡ Fun fact: i am real =]
 
 <!---
 DuckieIsADev/DuckieIsADev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
