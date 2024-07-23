@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @DuckieIsADev
 - 👀 I’m interested in *almost* EVERYTHING
-- 🌱 I’m currently learning html
-- 💞️ I’m looking to collaborate on a game
-- 📫 How to reach me - duckieisadev.outlook.com
-- 😄 Pronouns: smth/smth
-- ⚡ Fun fact: i am real =]
+- 🌱 I’m currently learning how to use Unity
+- 💞️ I’m looking to collaborate on a webpage or make one for you
+- 📫 How to reach me - laserninja26@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: no fun fact for you :[
 
 <!---
 DuckieIsADev/DuckieIsADev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
