@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning how to use Unity
 - 💞️ I’m looking to collaborate on a webpage or make one for you
 - 📫 How to reach me - laserninja26@gmail.com
-- 😄 Pronouns: he/him
+- 😄 Pronouns: crayon/colour
 - ⚡ Fun fact: wow, so fun fact
 
 
