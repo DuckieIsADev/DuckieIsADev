@@ -2,7 +2,7 @@
 
 A very not-yet proffesional game developer, who's currently trying to figure out which game idea would work beter first...
 
-### *at least i'm doing something*
+### *at least i'm trying to do something*
 
 Check out my website maybe? It's not very interesting
 
