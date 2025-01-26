@@ -1,7 +1,15 @@
-- 👋 Hi, I’m @DuckieIsADev
+## Hello, I'm DuckieiIsADev
+
+A very not-yet proffesional game developer, who's currently trying to figure out which game idea would work beter first...
+
+### *at least i'm doing something*
+
+Check out my website maybe? It's not very interesting
+
+<!-- - 👋 Hi, I’m @DuckieIsADev
 - 👀 I’m interested in *almost* EVERYTHING
 - 🌱 I’m currently learning how to use Unity
-<!-- - 💞️ I’m looking to collaborate on a webpage or make one for you
+- 💞️ I’m looking to collaborate on a webpage or make one for you
 -📫 How to reach me - laserninja26@gmail.com
 - 😄 Pronouns: crayon/colour
 - ⚡ Fun fact: wow, so fun fact
