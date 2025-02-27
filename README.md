@@ -1,4 +1,4 @@
-## Hello, I'm duckdev
+## Hello, I'm DuckieIsADev
 
 A very not-yet proffesional game developer, who's currently trying to figure out which game idea would work beter first...
 
