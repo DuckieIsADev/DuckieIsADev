@@ -1,6 +1,6 @@
 ## Hello, I'm DuckieIsADev
 
-A very not-yet proffesional game developer, who's currently trying to figure out which game idea would work beter first...
+I'm "***multitasking***"... *so to speak*... very on task... yup...
 
 ### *at least i'm trying to do something*
 
