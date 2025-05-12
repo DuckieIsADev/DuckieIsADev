@@ -1,4 +1,4 @@
-## Hello, I'm DuckieIsADev
+## Hello, I'm oscar :]
 
 I'm "***multitasking***"... *so to speak*... very on task... yup...
 
